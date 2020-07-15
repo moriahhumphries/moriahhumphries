@@ -1,7 +1,7 @@
 ### Hello! 👋
-🔭 I’m currently working on My Capstone project, Hobbyist
+🔭 I’m currently working on My Codeup Capstone project, Hobbyist
 <br>
-🌱 I’m currently learning Spring Boot and React
+🌱 I’m currently learning Java, Spring Boot, and React
 <br>
 👯 I’m looking for a Junior Developer position!
 
