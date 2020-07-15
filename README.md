@@ -1,6 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently working on My Capstone project, Hobbyist
+<br>
 🌱 I’m currently learning Spring Boot and React
+<br>
 👯 I’m looking for a Junior Developer position!
 
 <!--
