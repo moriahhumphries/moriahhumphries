@@ -1,7 +1,9 @@
 ### Hello! 👋
-🔭 I’m currently working on My Codeup Capstone project, Hobbyist
+😄 I just finished a 21 week career accelerator program in Dallas called Codeup!
 <br>
-🌱 I’m currently learning Java, Spring Boot, and React
+🔭 I just completed my Codeup Capstone project, Hobbyist.
+<br>
+🌱 I’m currently learning Java, Spring Boot, and React.
 <br>
 👯 I’m looking for a Junior Developer position!
 
