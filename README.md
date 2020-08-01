@@ -1,5 +1,5 @@
 ### Hello! 👋
-😄 I just finished a 21 week career accelerator program in Dallas called Codeup!
+😄 I just finished a 21 week career accelerator program in Dallas at Codeup!
 <br>
 🔭 I just completed my Codeup Capstone project, Hobbyist.
 <br>
