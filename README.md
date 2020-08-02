@@ -3,7 +3,7 @@
 <br>
 🔭 I just completed my Codeup Capstone project, Hobbyist.
 <br>
-🌱 I’m currently learning Java, Spring Boot, and React.
+🌱 I’m currently learning React.
 <br>
 👯 I’m looking for a Junior Developer position!
 
