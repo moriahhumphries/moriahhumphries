@@ -1,7 +1,7 @@
 ### Hello! 👋
-😄 I just finished a 21 week career accelerator program in Dallas at Codeup!
+😄 I recently finished a 21 week career accelerator program at Codeup in Dallas!
 <br>
-🔭 I just completed my Codeup Capstone project, Hobbyist.
+🔭 I just completed my group Codeup Capstone project, <a href="https://hobbyist-app.xyz" target="_blank">Hobbyist</a>.
 <br>
 🌱 I’m currently continuing to learn Java and Spring.
 <br>
