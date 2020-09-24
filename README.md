@@ -1,11 +1,11 @@
 ### Hello! 👋
-😄 I recently finished a 21 week career accelerator program at Codeup in Dallas!
+😄 I completed a 21 week career accelerator program at <a href="https://codeup.com/" target="_blank">Codeup</a> in Dallas!
 <br>
 🔭 I just completed my group Codeup Capstone project, <a href="https://hobbyist-app.xyz" target="_blank">Hobbyist</a>.
 <br>
-🌱 I’m currently continuing to learn Java, Spring, and React.
+🌱 I’m currently continuing to learn Javascript, React, and advanced CSS and SASS.
 <br>
-👯 I’m looking for a Junior Developer position!
+👯 I’m looking for a Front End Junior Developer position!
 
 <!--
 **moriahhumphries/moriahhumphries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
