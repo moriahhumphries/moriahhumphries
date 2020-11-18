@@ -1,7 +1,7 @@
 ### Hello! 👋
 😄 I completed a 21 week career accelerator program at <a href="https://codeup.com/" target="_blank">Codeup</a> in Dallas!
 <br>
-🔭 You can view my Codeup capstone project:, <a href="https://hobbyist-app.xyz" target="_blank">Hobbyist</a>.
+🔭 You can view my Codeup capstone project: <a href="https://hobbyist-app.xyz" target="_blank">Hobbyist</a>.
 <br>
 🌱 I’m currently continuing to learn Java, and Spring.
 
